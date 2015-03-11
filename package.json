@@ -1,0 +1,20 @@
+{
+  "name": "blob-the-builder",
+  "version": "1.0.0",
+  "description": "A wrapper for using the BlobBuilder api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "example": "node example/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wesleytodd/bloc-the-builder.git"
+  },
+  "author": "Wes Todd",
+  "license": "ICS",
+  "devDependencies": {
+    "browserify-middleware": "^5.0.2",
+    "express": "^4.12.2"
+  }
+}
